@@ -4,7 +4,7 @@
 - 🎓 Bachelor's degree in Computer Science from Sheikh Echahid Larbi Tebessi University - Tebessa
 - 🎓 Currently pursuing Master's degree in Systems and Multimedia (SYM) at the same university
 - 💻 Passionate about IoT Systems, Game Development, and Web Development , data analysis 
-- 🚀 Actively working on game design, and IoT dashboards
+- 🚀 Actively working on fun games 
 ## Skills
 - Programming: Python, JavaScript, Node.js, GDScript, Php, c++, c
 - Frameworks & Tools: Node-RED, Godot, React, Express, Node.js, NetBeans,XAMPP, Android Studio, Visual Studio Code
