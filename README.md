@@ -1,4 +1,4 @@
-# Hi there, I'm [miro] 
+# Hi there, I'm miro
 
 ## About Me
 - 🎓 Bachelor's degree in Computer Science from Sheikh Echahid Larbi Tebessi University - Tebessa
